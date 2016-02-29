@@ -10,3 +10,10 @@ The original project guideline can be found here:
 
 [Turing School Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
+To run this program:
+
+```
+git clone https://github.com/mcschatz/earmarked.git
+rails s
+```
+Make sure you are running postgres for your database.
